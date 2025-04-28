@@ -1,0 +1,28 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "file converter",
+  "keywords": [
+    "PDF",
+    "File"
+  ],
+  "license": "ISC",
+  "author": "Rounak Bakshi",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "docx-pdf": "^0.0.1",
+    "express": "^5.1.0",
+    "gitignore": "^0.7.0",
+    "libreoffice-convert": "^1.6.1",
+    "mammoth": "^1.9.0",
+    "multer": "^1.4.5-lts.2",
+    "nodemon": "^3.1.10",
+    "pdfkit": "^0.17.0"
+  }
+}
