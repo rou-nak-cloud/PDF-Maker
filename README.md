@@ -32,8 +32,9 @@ and generate downloadable PDFs using **PDFKit** — all through a seamless front
 
 ## 📸 Screenshots
 
-(./Screenshots/Screenshot-2025-05-13-152738.png)
-(./Screenshots/Screenshot-2025-05-13-152755.png)
+![PDF Maker Screenshot 1](./Screenshots/Screenshot-2025-05-13-152738.png)
+![PDF Maker Screenshot 2](./Screenshots/Screenshot-2025-05-13-152755.png)
+
 
 ---
 
@@ -44,3 +45,24 @@ and generate downloadable PDFs using **PDFKit** — all through a seamless front
 ```bash
 git clone https://github.com/your-username/PDF-Maker.git
 cd PDF-Maker
+
+```
+
+# Backend Setup:
+-cd backend
+-npm install
+-npm run dev
+
+# Frontend Setup:
+-cd frontend
+-npm install
+-npm run dev
+
+
+---
+
+
+
+
+
+
