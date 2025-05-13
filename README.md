@@ -33,7 +33,6 @@ and generate downloadable PDFs using **PDFKit** — all through a seamless front
 ## 📸 Screenshots
 
 > Add screenshots here after uploading to your repo’s `/screenshots/` folder  
-> Example:
 
 
 ---
